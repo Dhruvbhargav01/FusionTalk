@@ -3,6 +3,7 @@
 FusionTalk is a **language-learning and cultural exchange platform** that connects people across the globe through **chat and video calls**.  
 The app enables users to **make international friends**, **practice languages**, and **explore cultures** in a natural and engaging way.  
 
+#Application Link - https://fusiontalk.onrender.com
 ---
 
 ## 🖼️ Screenshots
